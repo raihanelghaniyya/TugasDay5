@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_samsung">Samsung Galaxy S20</string>
+    <string name="harga_samsung">Precio: 12.999.999 rupias</string>
+    <string name="kode_samsung">Código de artículo: SGS</string>
+    <string name="nama_asus">Asus Vivobook 14</string>
+    <string name="harga_asus">Precio: 9.150.999 rupias</string>
+    <string name="kode_asus">Código de artículo: AV4</string>
+    <string name="nama_macbook">Macbook Pro M3</string>
+    <string name="harga_macbook">Precio: 28.999.999 rupias</string>
+    <string name="txtInput_nama">Nombre del cliente</string>
+    <string name="radioButton_tipe">Tipo de miembro :</string>
+    <string name="radioButton_gold">Oro</string>
+    <string name="radioButton_silver">Plata</string>
+    <string name="radioButton_biasa">Normal</string>
+    <string name="txtInput_kodeBarang">Código del objeto</string>
+    <string name="txt_klikDaftar">¡Haga clic aquí para ver la lista de artículos!</string>
+    <string name="txtInput_jumlahbarang">la cantidad de bienes</string>
+    <string name="btn_proses">Proceso</string>
+    <string name="selamatDatang">BIENVENIDO</string>
+    <string name="tipeMember">Tipo de miembro</string>
+    <string name="transaksiHariIni">Transacciones de hoy</string>
+    <string name="jumlahBarang">La cantidad de bienes :</string>
+    <string name="totalHargaBarang">Precio total de los bienes : Rp</string>
+    <string name="diskonHarga">Descuento de precio : Rp</string>
+    <string name="diskonMember">Descuento para miembros : Rp</string>
+    <string name="jumlahBayar">Monto del pago : Rp</string>
+    <string name="terimaKasih">¡Gracias por comprar aquí!</string>
+    <string name="bagikan">Compartir</string>
+    <string name="kodeBarang">Código del objeto :</string>
+    <string name="namaBarang">Nombre de Dioses :</string>
+    <string name="hargaBarang">Precio de las mercancías : Rp</string>
+    <string name="kode_macbook">Código de artículo: MP3</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_samsung">Samsung Galaxy S20</string>
+    <string name="harga_samsung">Fiyat: 12.999.999 Rp.</string>
+    <string name="kode_samsung">Ürün Kodu: SGS</string>
+    <string name="nama_asus">Asus Vivobook 14</string>
+    <string name="harga_asus">Fiyat: 9.150.999 Rp</string>
+    <string name="kode_asus">Ürün Kodu: AV4</string>
+    <string name="nama_macbook">Macbook Pro M3</string>
+    <string name="harga_macbook">Fiyat: 28.999.999 Rp.</string>
+    <string name="txtInput_nama">Müşterinin adı</string>
+    <string name="radioButton_tipe">Üye Türü :</string>
+    <string name="radioButton_gold">Altın</string>
+    <string name="radioButton_silver">Gümüş</string>
+    <string name="radioButton_biasa">Normal</string>
+    <string name="txtInput_kodeBarang">Ürün Kodu</string>
+    <string name="txt_klikDaftar">Ürün Listesi için buraya tıklayın!</string>
+    <string name="txtInput_jumlahbarang">Mal miktarı</string>
+    <string name="btn_proses">İşlem</string>
+    <string name="selamatDatang">HOŞ GELDİN</string>
+    <string name="tipeMember">Üye Türü</string>
+    <string name="transaksiHariIni">Bugünkü İşlemler</string>
+    <string name="jumlahBarang">Mal miktarı :</string>
+    <string name="totalHargaBarang">Malların Toplam Fiyatı : Rp</string>
+    <string name="diskonHarga">Fiyat İndirimi : Rp</string>
+    <string name="diskonMember">Üye İndirimi: Rp</string>
+    <string name="jumlahBayar">Ödeme Tutarı : Rp</string>
+    <string name="terimaKasih">Burada alışveriş yaptığınız için teşekkür ederiz!</string>
+    <string name="bagikan">Paylaşmak</string>
+    <string name="kodeBarang">Ürün Kodu :</string>
+    <string name="namaBarang">Esyalarin adi :</string>
+    <string name="hargaBarang">Mal Fiyatı : Rp</string>
+    <string name="kode_macbook">Ürün Kodu: MP3</string>
+</resources>

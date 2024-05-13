@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_samsung">Samsung Galaxy S20</string>
+    <string name="harga_samsung">Price: Rp. 12,999,999</string>
+    <string name="kode_samsung">Item Code: SGS</string>
+    <string name="nama_asus">Asus Vivobook 14</string>
+    <string name="harga_asus">Price: Rp. 9,150,999</string>
+    <string name="kode_asus">Item Code: AV4</string>
+    <string name="nama_macbook">Macbook Pro M3</string>
+    <string name="harga_macbook">Price: Rp. 28,999,999</string>
+    <string name="txtInput_nama">Customer\'s name</string>
+    <string name="radioButton_tipe">Member Type :</string>
+    <string name="radioButton_gold">Gold</string>
+    <string name="radioButton_silver">Silver</string>
+    <string name="radioButton_biasa">Regular</string>
+    <string name="txtInput_kodeBarang">Item code</string>
+    <string name="txt_klikDaftar">Click here for the Item List!</string>
+    <string name="txtInput_jumlahbarang">The amount of goods</string>
+    <string name="btn_proses">Process</string>
+    <string name="selamatDatang">WELCOME</string>
+    <string name="tipeMember">Member Type</string>
+    <string name="transaksiHariIni">Today\'s Transactions</string>
+    <string name="jumlahBarang">The amount of goods :</string>
+    <string name="totalHargaBarang">Total Price of Goods: Rp</string>
+    <string name="diskonHarga">Price Discount: Rp</string>
+    <string name="diskonMember">Member Discount: Rp</string>
+    <string name="jumlahBayar">Payment Amount: Rp</string>
+    <string name="terimaKasih">Thank you for shopping here!</string>
+    <string name="bagikan">Share</string>
+    <string name="kodeBarang">Item code :</string>
+    <string name="namaBarang">Name of goods :</string>
+    <string name="hargaBarang">Goods Price: Rp</string>
+    <string name="kode_macbook">Item Code: MP3</string>
+</resources>
